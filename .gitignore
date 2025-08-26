@@ -53,3 +53,10 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# ignore the big files
+proj1-threeDTerraria/textures/ignore/
+proj1-threeDTerraria/export-blender/imgseq/
+proj1-threeDTerraria/world\ threeDterraria/
+proj1-threeDTerraria/assets/msc/audio_proj.aup3
+
